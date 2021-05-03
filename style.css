@@ -27,12 +27,6 @@ body {
     vertical-align: middle;
 }
 
-.bodysection {
-    background-color: skyblue;
-    height: 600px;
-    width: 100%;
-}
-
 #menu {
     list-style: none;
     width: 100%;
@@ -59,6 +53,28 @@ body {
 #link:hover {
     background-color: skyblue;
 }
+
 img {
     width: 160px;
+}
+
+#Myfavouritebook {
+    background-color: coral;
+}
+
+#Mywork {
+    background-color: #fdbb2d;
+}
+
+#bodysection {
+    background-color: #22c1c3;
+}
+
+p,
+h3,
+h4 {
+    color: white;
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
 }
